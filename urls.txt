@@ -1,3 +1,3 @@
 http://backend.course#bogdna21
-http://backend.course?name=%22%D0%97%D0%B0%D0%B1%D1%80%D0%BE%D0%B4%D1%81%D1%8C%D0%BA%D0%B8%D0%B9%20%D0%91%D0%BE%D0%B3%D0%B4%D0%B0%D0%BD%22&git_name=bogdna21&group=%22%D0%A4%D0%B5%D1%96-24%D1%81%22&subgroup=%22%D0%9F%D1%96%D0%B4%D0%B3%D1%80%D1%83%D0%BF%D0%B0%202%22
+http://backend.course/?name=%22%D0%97%D0%B0%D0%B1%D1%80%D0%BE%D0%B4%D1%81%D1%8C%D0%BA%D0%B8%D0%B9%20%D0%91%D0%BE%D0%B3%D0%B4%D0%B0%D0%BD%22&github_name=bogdna21&group=%22%D0%A4%D0%B5%D1%96-24%D1%81%22&subgroup=%22%D0%9F%D1%96%D0%B4%D0%B3%D1%80%D1%83%D0%BF%D0%B0%202%22
 https://bank.gov.ua/NBUStatService/v1/statdirectory/exchange?valcode=JPY&date=20240127&json
